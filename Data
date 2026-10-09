@@ -1,0 +1,23 @@
+-- Triggers, procedures, functions or other programmable database objects, when justified.
+-- Do not create objects only to satisfy a count.
+
+-- Relevant SQL queries developed for the project.
+-- Label each query and briefly state its purpose.
+
+-- Q01 — <purpose>
+-- SELECT ...
+
+-- Database schema / DDL
+-- Create tables, primary keys, foreign keys, NOT NULL, UNIQUE, CHECK constraints and referential rules here.
+
+-- Example:
+-- CREATE TABLE example_table (
+--   example_id INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+--   name VARCHAR(100) NOT NULL
+-- );
+
+-- Representative data used to demonstrate and test the system.
+-- Include enough cases to exercise relationships, business rules and queries.
+
+-- Views used by the solution.
+-- If no view is justified, explain this in the report instead of creating artificial objects.
